@@ -96,6 +96,10 @@ margin: 100px 0;
   float:left;
   margin-right:30px;
 }
+.contact-message{
+  width:40%;
+  margin:40px auto 60px;
+}
 .btn{
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
