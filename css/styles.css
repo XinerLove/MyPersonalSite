@@ -121,3 +121,42 @@ font-size: 20px;
 padding: 10px 20px 10px 20px;
 text-decoration: none;
 }
+nav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #111;
+}
+
+/* Optional: Style for the new page, if needed */
+.new-page-content {
+  padding: 20px;
+}
+
+.new-page-content h2 {
+  color: #66BFBF;
+}
+
+.new-page-content p {
+  margin: 20px 0;
+}
