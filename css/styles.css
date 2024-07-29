@@ -124,6 +124,7 @@ text-decoration: none;
 nav {
   background-color: #333;
   overflow: hidden;
+  text-align: center; /* Centers the menu items horizontally */
 }
 
 nav ul {
@@ -133,7 +134,7 @@ nav ul {
 }
 
 nav ul li {
-  float: left;
+  disply: inlines;
 }
 
 nav ul li a {
