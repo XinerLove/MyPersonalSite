@@ -189,3 +189,15 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #111;
 }
+/* General Body Style */
+body {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 200%;
+  background-color: #ffffff; /* Default background color */
+}
+
+/* Page-Specific Style */
+.about-page {
+  background-color: #f0f0f0; /* Background color for the About Me page */
+}
