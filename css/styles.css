@@ -208,3 +208,9 @@ body {
   font-size: 200%;
 }
 
+/* Specific styles for the business page */
+.business-page {
+  background-color: #f5f5f5; /* Light gray background for business page */
+  padding: 20px;
+}
+<body class="business-page">
